@@ -21,7 +21,7 @@ A Python data analytics project that uses the **FastF1 API** to collect, process
 
 ## Example Results
 
-* **Feature Engineering:** Successfully aggregated 900+ multi-season driver records, converting raw lap-by-lap timing and categorical tire compounds into percentage-wear metrics, cumulative stint lengths, and pit-stop deltas.
+* **Feature Engineering:** Aggregated driver records across three seasons, converting raw lap-by-lap timing and categorical tire compounds into usage metrics, cumulative stint lengths, and pit-stop deltas.
 * **Key Statistical Findings:** 
   * **Qualifying Dominance:** Starting grid position showed the strongest positive correlation with final finishing position across the dataset.
   * **Tire Strategy Impact:** Regression analysis highlighted that optimizing stint lengths and minimizing pit-stop time loss yielded measurable position gains, particularly on high-degradation circuits.
