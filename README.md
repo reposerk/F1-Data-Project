@@ -16,7 +16,7 @@ A Python data analytics project that uses the **FastF1 API** to collect, process
    ```
 
 3. **Run the pipeline & analysis:**
-   * Run the data ingestion and feature engineering scripts (or open the Jupyter Notebooks in `notebooks/`) to pull season telemetry and build the aggregated dataset.
+   * Run feature engineering scripts (or use the provided csv files) to pull season telemetry and build the aggregated dataset.
    * Execute the modeling script to generate correlation matrices and linear regression outputs.
 
 ## Example Results
