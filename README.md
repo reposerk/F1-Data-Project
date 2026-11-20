@@ -18,9 +18,9 @@ The Project is split into two files, the presentation and the code dump. The pre
    ```
 
 3. **Run the pipeline & analysis (in 'Project Code Dump.ipynb'):**
-   * Run data preprocessing scripts (or use the provided csv files) to pull season telemetry and build the aggregated dataset.
-   * Visualize the data with correlation matrices and heat maps.
-   * Execute the modeling scripts to generate various models, including linear regression and neural networks.
+   * Run the data preprocessing scripts (or use the provided csv files) to pull telemetry data and build the aggregated dataset.
+   * Run the visualization scripts to create visualizaitons with correlation matrices and heat maps.
+   * Run the modeling scripts to generate various models, including linear regression and neural networks.
 
 ## Example Results
 
