@@ -6,8 +6,8 @@ A Python data analytics project that uses the **FastF1 API** to collect, process
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/f1-performance-analytics.git
-   cd f1-performance-analytics
+   git clone https://github.com/reposerk/F1-Data-Project.git
+   cd F1-Data-Project
    ```
 
 2. **Install dependencies:**
@@ -15,8 +15,9 @@ A Python data analytics project that uses the **FastF1 API** to collect, process
    pip install pandas numpy fastf1 scikit-learn matplotlib seaborn
    ```
 
-3. **Run the pipeline & analysis:**
-   * Run feature engineering scripts (or use the provided csv files) to pull season telemetry and build the aggregated dataset.
+3. **Run the pipeline & analysis (in 'Project Code Dump.ipynb':**
+   * Run data preprocessing scripts (or use the provided csv files) to pull season telemetry and build the aggregated dataset.
+   * 
    * Execute the modeling script to generate correlation matrices and linear regression outputs.
 
 ## Example Results
