@@ -1,6 +1,8 @@
 # F1 Performance Analytics & Predictive Modeling
 
-A Python data analytics project that processes, and analyzes Formula 1 telemetry data from the Ground Effect era, collected from the  **FastF1 API**. It transforms lap-by-lap race records into driver-level summaries to evaluate the statistical impact of qualifying position, tire strategy, and speed on final race outcomes.
+A Python data analytics project that processes, and analyzes Formula 1 telemetry data from the Ground Effect era, collected from the  **FastF1 API**. It transforms lap-by-lap race records into driver-level summaries to evaluate the statistical impact of each feature on final race outcomes.
+
+The Project is split into two files, the presentation and the code dump. The presentation contains the report and analysis, while the code dump contains the code used to generate the analytical tools.
 
 ## How to Use
 
